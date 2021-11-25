@@ -11,7 +11,7 @@ It uses the OpenWeather One Call API to retrieve weather data for cities across 
 * BootStrap
 
 
-![Todd's weather dashboard](assets/images/orm.png)
+![Todd's weather dashboard](images/orm.png)
 
 ## Deployed Website
 https://todd1terry1.github.io/Weather-Dashboard/
